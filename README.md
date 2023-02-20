@@ -10,7 +10,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
-  - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
@@ -32,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/savvykhai/FOUR-CARD-FEATURE-SECTION-MASTER.git)
+- Live Site URL: [](four-card-feature-section-master-lkabwgnla-savvykhai.vercel.app)
 
 ****## My process
 
