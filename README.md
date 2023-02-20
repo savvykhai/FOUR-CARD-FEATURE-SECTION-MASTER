@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]([https://github.com/savvykhai/FOUR-CARD-FEATURE-SECTION-MASTER.git)
+- Solution URL: [Solution URL](https://github.com/savvykhai/FOUR-CARD-FEATURE-SECTION-MASTER.git)
 - Live Site URL: [live Site URL](https://four-card-feature-section-master-8m5qw190o-savvykhai.vercel.app)
 
 ****## My process
