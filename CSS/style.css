@@ -43,7 +43,7 @@ img {
 
 /* GENERAL STYLES */
 body {
-    /* min-height: 100vh; */
+    min-height: 100vh;
     font-family: 'Poppins', sans-serif;
     background-color: var(--BODY-BGCOLOR);
 }
@@ -218,7 +218,9 @@ body {
     color: #fff;
     padding: 5px;
     margin-top: 1.5rem;
-    position: sticky;
+    position: fixed;
     bottom: 0;
+    width: 100%;
+    font-size: 15px;
 
 }
